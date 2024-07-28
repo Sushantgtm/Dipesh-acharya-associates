@@ -202,7 +202,7 @@ section {
     display: flex;
     align-items: flex-end; /* Aligns items at the bottom */
     padding: 4rem; /* Adds padding to the container */
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../Image/background.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../image/background.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -755,7 +755,7 @@ footer{
     flex-flow: row wrap;
     padding: 50px;
     color: #fff;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../Image/background.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../image/background.jpg);
     background-size: cover;
     display: flex;
     flex-direction:row;
